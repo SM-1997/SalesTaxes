@@ -1,5 +1,5 @@
 # SalesTaxes
-My personal solution of SalesTaxes Problem : https://github.com/luigiberrettini/sales-taxes-kata#readme
+My personal solution of SalesTaxes Problem : https://github.com/luigiberrettini/sales-taxes-kata#readme  
 I wrote it in Java using JDK15 in april 2021.
 
 CONFIGURATION FILES
