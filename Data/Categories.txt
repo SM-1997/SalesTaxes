@@ -1,0 +1,6 @@
+book-books
+music CD-entertainment
+chocolate bar-food
+box of chocolates-food
+packet of headache pills-medical products
+bottle of perfume-self care

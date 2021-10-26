@@ -1,0 +1,5 @@
+books/False
+medical products/False
+food/False
+entertainment/True
+self care/True
