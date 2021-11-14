@@ -1,6 +1,6 @@
 # SalesTaxes
 My personal solution of SalesTaxes Problem : https://github.com/luigiberrettini/sales-taxes-kata#readme  
-I wrote it in Java using JDK15 in a week in april 2021.
+I wrote it in Java using JDK15 in april 2021.
 
 CONFIGURATION FILES
 The application needs two files:
